@@ -1,5 +1,7 @@
 ## Hi there 👋
+Studente di Informatica all'Università degli Studi di Napoli Federio II.
 
+- 🌱 Attualmente sto lavorando su vari progetti Web. Sto cercando di imparare così i linguaggi e framework moderni (es. astro, tailwind...).
 <!--
 **NothingElsee/NothingElsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
