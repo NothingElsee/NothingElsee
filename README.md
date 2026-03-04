@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo 👋
 Studente di Informatica all'Università degli Studi di Napoli Federio II.
 
 - 🌱 Attualmente sto lavorando su vari progetti Web. Sto cercando di imparare così le tecnologie moderne (es. astro, tailwind...).
